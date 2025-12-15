@@ -1,77 +1,74 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
+<h1 align="left">Hey 👋 I'm Rashid</h1>
 
 <p align="left">
-My name is <b>Rashid</b> and I'm a <b>Java Backend Developer</b> 🚀, from India 🇮🇳
-</p>
-
-###
-
-<h2 align="left">👨‍💻 About me</h2>
-
-###
-
-<p align="left">
-✨ Creating bugs since 2021 <br>
-📚 Currently learning <b>Advanced Spring Boot & System Design</b> <br>
-🎯 Goal: Build scalable SaaS products & reach <b>40–50 LPA</b> 💰 <br>
-🎲 Fun fact: I love converting boring manual work into smart automation 😄
+Java Backend Developer | Team Lead | 3+ Years Experience 🚀
 </p>
 
 ---
 
-<h2 align="left">🚀 Tech Stack & Skills</h2>
+<h2 align="left">👨‍💻 About Me</h2>
+
+<p align="left">
+💼 Java Developer & Team Lead at Pisoft Informatics <br>
+⚙️ Building scalable backend systems & microservices <br>
+☁️ Experience with AWS, Docker, VPS deployments <br>
+🎯 Focused on clean code, performance & production-ready systems
+</p>
+
+---
+
+<h2 align="left">🚀 Core Skills</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-ECS%20%7C%20RDS%20%7C%20S3-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-<h2 align="left">🛠️ IDEs & Developer Tools</h2>
+<h2 align="left">🛠️ IDEs & Tools</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx"/>
+</div>
+
+---
+
+<h2 align="left">📌 Highlight Projects</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring"/>
+🏋️ <b>ERP System (Nigeria)</b> – Fleet & employee management via REST APIs <br>
+🏨 <b>Hotel Booking Platform</b> – Microservices on AWS with OAuth2 <br>
+📄 <b>Resume Parsing Tool</b> – Java-based parser for PDF/DOCX/TXT, deployed via Docker + Nginx
 </p>
 
 ---
 
-<h2 align="left">📌 What I Build</h2>
-
 <p align="left">
-🏋️ <b>Gym Management System (Mini ERP)</b><br>
-✔ Member Management<br>
-✔ Payment & Due Tracking<br>
-✔ Earnings Dashboard<br>
-✔ Ticket & Issue System<br>
-✔ Built for real business use 🚀
-</p>
-
----
-
-<h2 align="left">🤝 Let’s Connect</h2>
-
-<p align="left">
-💡 Open to backend, SaaS & automation projects <br>
-⭐ Don’t forget to star repositories if you like my work!
+⭐ If you like my work, don’t forget to star the repositories
 </p>
