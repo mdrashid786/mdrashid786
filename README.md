@@ -1,11 +1,39 @@
-👋 Hi, I'm Rashid
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🚀 Software Developer | Java & Spring Boot Enthusiast | Full-Stack Learner
-Main ek passionate software developer hoon jise real-world problems ko scalable solutions me convert karna pasand hai. Mujhe backend systems banana, dashboards design karna aur business automation par kaam karna achcha lagta hai.
+###
 
-🧠 About Me
-👨‍💻 Experience: ~3+ years in IT industry
-💼 Current Role: Software Developer
-🔥 Focus: High-impact skills seekhkar next level (40–50 LPA goal 🎯)
-🏗️ Builder Mindset: Sirf seekhta nahi, products bhi banata hoon
-📈 Interest: SaaS, ERP systems, dashboards & automation
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
