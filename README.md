@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Rashid</h1>
 
 <p align="left">
-Java Backend Developer | Team Lead | 4+ Years Experience 🚀
+Java Backend Developer | Team Lead | 3.6 Years Experience 🚀
 </p>
 
 ---
