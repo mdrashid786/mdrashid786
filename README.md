@@ -83,8 +83,6 @@ View Code </a>
 🚀 <b>Live Deployment Project</b><br>
 - Spring Boot app deployed on VPS<br>
 - Running with Docker + Nginx<br>
-👉 [Live Demo] | [View Code]
-
 </p>
 
 ---
