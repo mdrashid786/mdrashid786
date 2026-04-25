@@ -49,7 +49,17 @@ I help businesses build and deploy secure, scalable backend systems using Spring
 🔐 <b>Authentication System (JWT)</b><br>
 - Secure login/signup with role-based access<br>
 - Tech: Spring Boot, Spring Security<br>
-👉 https://github.com/mdrashid786/Role_Based_Security
+👉 <a href="https://github.com/mdrashid786/Role_Based_Security" target="_blank" style="
+display:inline-block;
+padding:10px 18px;
+background-color:#24292e;
+color:#ffffff;
+text-decoration:none;
+border-radius:6px;
+font-weight:600;
+font-family:sans-serif;">
+View Code </a>
+
 
 <br><br>
 
